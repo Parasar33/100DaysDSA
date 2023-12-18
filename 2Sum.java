@@ -13,4 +13,5 @@ class Solution {
         return output;
     }
 }
-//Run time: 48ms
+//Run time: 48 ms
+//Memory: 43.7 mb
